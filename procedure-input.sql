@@ -1,3 +1,3 @@
 create procedure prezzoLuce as
-insert 1
+insert 2
 into tabella(colonna)
