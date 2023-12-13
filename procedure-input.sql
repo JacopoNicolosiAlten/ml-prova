@@ -1,3 +1,3 @@
 create procedure sq_prezzoLuce as
-insert 2
+insert 3
 into tabella(colonna)
