@@ -1,3 +1,6 @@
 create procedure sq_prezzoLuce as
-insert 3
-into tabella(colonna_1)
+begin
+insert into tabella(colonna_1, colonna_2)
+values (3, 4)
+exec precedure_new;
+end
